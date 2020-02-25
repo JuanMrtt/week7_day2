@@ -1,0 +1,14 @@
+section {
+  padding: 50px 100px;
+  border-bottom: 1px solid #999;
+}
+
+.clickCounter {
+  text-align: center;
+}
+
+.clickCounter button {
+  display: block;
+  width: 100%;
+  padding: 20px 0;
+}

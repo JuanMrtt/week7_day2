@@ -1,0 +1,14 @@
+.userCard {
+    width: calc(33% - 40px);
+    display: inline-block;
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+    transition: background .5s;
+}
+
+.userCard img {
+    width:  40px;
+    float: left;
+    margin-right: 10px;
+}
